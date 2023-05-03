@@ -1,1 +1,3 @@
 # dsg
+clear all
+clc
